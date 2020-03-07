@@ -1,1 +1,5 @@
-# quangminhit94-fullstack-shop
+# fullstack-shop
+
+- [] Sign in, sign up
+- [] Cart shopping
+- [] Payment implement
